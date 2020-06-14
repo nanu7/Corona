@@ -1,0 +1,1 @@
+Select * from names_list where surname='NAAIK';
